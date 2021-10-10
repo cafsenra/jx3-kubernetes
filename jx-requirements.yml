@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "dev.pbc.pt"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
